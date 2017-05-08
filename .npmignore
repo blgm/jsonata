@@ -3,3 +3,6 @@
 !LICENSE
 !package.json
 !README.md
+!dist/
+!lib/
+!doc/
