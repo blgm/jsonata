@@ -1,6 +1,6 @@
 coverage/
 doc/
 dist/
-jsonata.min.js
+/jsonata*.js
 node_modules/
 npm-debug.log
