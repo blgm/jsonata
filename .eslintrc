@@ -44,7 +44,7 @@
       }
     }],
     "semi": ["error", "always"],
-    "strict": ["error", "function"],
+    "strict": ["error", "global"],
     "valid-jsdoc": ["error", {"requireReturn": false}]
   }
 }

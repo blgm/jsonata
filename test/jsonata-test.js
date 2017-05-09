@@ -6,7 +6,7 @@
 
 'use strict';
 
-var jsonata = require('../jsonata');
+var jsonata = require('..');
 var assert = require('assert');
 var chai = require("chai");
 var expect = chai.expect;
@@ -8742,4 +8742,3 @@ describe('end to end scenarios', function () {
         expect(pe.evaluate(data2)).to.deep.equal('boo');
     });
 });
-
